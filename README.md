@@ -12,18 +12,35 @@
 
 
 
+
+
+
+
 ![image](https://github.com/user-attachments/assets/7a54f22b-00a7-47e5-8212-fd3a3fc5bd01)
 ### 로그인 페이지
 
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/a4c36e13-209b-4f7d-8226-6bbe6c698b1d)
 ### 게시판 페이지
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/4752b10c-727c-42aa-875d-2a404d96cd90)
 ### 마이 페이지
 
 
 
-발표 자료
+
+
+
+
+# 발표 자료
 ![image](https://github.com/user-attachments/assets/d59bc0a8-a063-41d1-8e22-1d2ac0b2077b)
 ![image](https://github.com/user-attachments/assets/435c384d-d32c-4120-bba7-6949284e166e)
 ![image](https://github.com/user-attachments/assets/b54c84cf-a05c-421f-bf03-9836ec4c6f32)
