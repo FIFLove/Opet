@@ -1,4 +1,4 @@
-#Database 연습용 php 게시판 만들기
+# Database 연습용 php 게시판 만들기
 
 
 ### Motivation
